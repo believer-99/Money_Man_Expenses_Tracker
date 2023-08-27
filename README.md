@@ -1,5 +1,6 @@
 # Money Man Expenses Tracker
 The Money Man Expenses Tracker App is a convenient tool for keeping track of your expenses. With this app, you can easily record the details of your expenditures, including the expense's name, category, and date. The app also provides you with an organized list of all your expenses, as well as a visual chart that illustrates the distribution of expenses across different categories.
+![Home Screen](ExpenseApp1.jpg)
 
 ## Getting Started
 To get started with the Expenses Tracker App, follow these steps:
@@ -34,13 +35,17 @@ When you tap the "Add Expense" button, you'll be prompted to provide the followi
 
 ### Expense Name:
 Enter a brief description of the expense.
+### Amount:
+Enter the Amount you spent for that particular expense.
 ### Category:
 Select the appropriate category for the expense (e.g., Food, Transportation, Entertainment, Bills, etc.).
 ### Date:
 Choose the date when the expense was made.
+![New Expense](ExpenseApp2.jpg)
 
 ## Expense Distribution Chart
 The "Expense Chart" section provides you with a visual representation of your spending distribution across different categories. The chart helps you identify where your money is being allocated and which categories are taking up a significant portion of your expenses.
+![Expense Distribution Chart](ExpenseApp3.jpg)
 
 ## Contributions
 Contributions to the Expenses Tracker App are welcome! If you have ideas for new features, improvements to the user interface, or bug fixes, feel free to fork this repository and submit a pull request.
